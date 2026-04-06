@@ -1,4 +1,4 @@
 {
-  "template": "Templates/Daily日记模板",
+  "template": "Templates/每日笔记-{date} 日记",
   "folder": "00_Daily"
 }
